@@ -26,13 +26,14 @@ Fyi, Below is the plan of resources that will be created when you hit Terraform 
 
 
 $ terraform apply
+
 var.network_name
-  The name of the VPC network being created
+The name of the VPC network being created
 
   Enter a value: test-network
 
 var.project_id
-  The project ID to host the network in
+The project ID to host the network in
 
   Enter a value: test-project
 
